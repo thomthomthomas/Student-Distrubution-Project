@@ -1,4 +1,4 @@
-# Fair Division Data Classification (FDDC) Project
+# Fair Division Data Classification Project
 
 ## 📄 About the Project
 This Jupyter Notebook explores a project on **Fair Division of Group Assignments**, developed collaboratively by the following contributors:
@@ -23,11 +23,12 @@ The project provides a comprehensive solution for grouping students fairly using
    - **Section 3**: Visualization of Results  
 
 ---
-##📊 Key Features
+## 📊 Key Features
 Data Analysis: Processes input data and prepares it for grouping.
 Visual Flow Chart: Offers a clear understanding of the grouping process.
 Helper Functions: Modularized code for better readability and reuse.
 Result Visualization: Plots and charts to represent the fairness of group assignments.
+
 ---
 
 ## 🛠️ Technologies Used
